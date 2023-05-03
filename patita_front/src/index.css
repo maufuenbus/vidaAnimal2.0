@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(218, 190, 102);
+  color: rgb(0, 0, 0);
+}
+
+.carousel{
+  width: 50%;
+  margin: 15px auto;
+}
+
+.carousel-item img{
+  margin: auto;
+}
+.container{
+  width: 100%;
+  display: flex;
+}
+
+.card{
+  display: flex;
+  margin: 5px auto;
+}
